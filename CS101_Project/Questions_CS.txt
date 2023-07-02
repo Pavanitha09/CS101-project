@@ -1,0 +1,158 @@
+
+Question 1
+
+In which library the key word clrscr() is used ?
+
+A. conio.h
+B. string.h
+C. stdio.h
+D. stdlib.h
+
+*
+Question 2
+
+What is the output if we print the given input ?
+printf("%d",010);
+
+A. 10
+B. 8
+C. 9
+D. 11
+
+*
+Question 3
+
+Which of the following is not a basic data type in c language ?
+
+A. int
+B. float
+C. structures
+D. char
+
+*
+Question 4
+
+Under which data type 'a' comes?
+
+A. char
+B. int
+C. float
+D. double
+
+*
+Question 5
+
+What does keyword char represent?
+
+A. integer
+B. floating point
+C. array
+D. character
+
+*
+/
+
+Question 1
+
+Which library is used to draw graphs in c language?
+
+A. conio.h
+B. string.h
+C. graphics.h
+D. stdlib.h
+
+*
+Question 2
+
+Where does a string terminates?
+
+A. \0
+B. \t
+C. \n
+D. \a
+
+*
+Question 3
+
+Which of the following is a basic data type in c language ?
+
+A. int
+B. Arrays
+C. structures
+D. strings
+
+*
+Question 4
+
+Which data type is represented by %x?
+
+A. hexadecimal representation
+B. print % character 
+C. float 
+D. double
+
+*
+Question 5
+
+If we print which of the following gives sound?
+
+A. %
+B. \n
+C. \a
+D. \t
+
+*
+/
+
+Question 1
+
+Who is the founder of c language?
+
+A. Ken Thompson
+B. Dennis Ritchie
+C. James Gosling
+D. Guido van Rossum
+
+*
+Question 2
+
+In which constraint of c we use the keyword case?
+
+A. while
+B. if or else
+C. switch
+D. do while
+
+*
+Question 3
+
+Which data type have the format x[]?
+
+A. structures
+B. float
+C. arrays
+D. long int
+
+*
+Question 4
+
+What is the 16-bit compiler allowable range for integer constants?
+
+A. -3.4e38 to 3.4e38 
+B. -32767 to 32768 
+C. -32668 to 32667 
+D. -32768 to 32767
+
+*
+Question 5
+
+In which library the key word exit is used?
+
+A. ctype.h
+B. limits.h
+C. math.h
+D. stdlib
+
+*
+/
+

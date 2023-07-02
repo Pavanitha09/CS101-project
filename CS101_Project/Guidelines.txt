@@ -1,0 +1,18 @@
+     							 
+							 
+							 
+							 INSTRUCTION PAGE
+
+		*****************************************************************************************************************
+
+			>>> Select the topic on which you want to attempt the quiz.
+			>>> Press the option number(A or B or C or D ) to select the respective option. 
+			>>> Once entered answer cannot be changed so, enter answer carefully. 
+			>>> If you enter any option other than (A or B or C or D) your answer will be considered as unattempted.
+			>>> Each topic consists of 5 questions.
+			>>> Each question is of 2 marks and no negative marking.
+			>>> Enter any key twice if you don't want to attempt the question.
+			>>> If you want to go for next question click ENTER.
+
+		*****************************************************************************************************************    
+      							ALL THE BEST !!! 
